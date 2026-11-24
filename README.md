@@ -25,3 +25,7 @@
 | Dépôt | Contenu |
 | --- | --- |
 | [defense-tech-lab](https://github.com/schtroumpfettx/defense-tech-lab) | Laboratoire technique : exercices et preuves de concept |
+
+### Site
+
+[schtroumpfettx.fr](https://schtroumpfettx.fr) · en construction
